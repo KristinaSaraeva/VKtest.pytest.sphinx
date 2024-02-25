@@ -1,0 +1,182 @@
+{
+    "Question 1: You're crying. Why is that?": [
+        {
+            "answer": "I am sad and worried",
+            "score": 2
+        },
+        {
+            "answer": "I am touched",
+            "score": 4
+        },
+        {
+            "answer": "I am peeling an onion",
+            "score": 1
+        },
+        {
+            "answer": "It is cold outside",
+            "score": 0
+        }
+    ],
+    "Question 2: Someone has stolen your food from the fridge. What will you do?": [
+        {
+            "answer": "I will eat someone else's food",
+            "score": 3
+        },
+        {
+            "answer": "I will take a cup of coffee",
+            "score": 2
+        },
+        {
+            "answer": "I will find the thief and kill him",
+            "score": 4
+        },
+        {
+            "answer": "I will go to the police",
+            "score": 1
+        }
+    ],
+    "Question 3: You've just had a car accident. What will you do?": [
+        {
+            "answer": "I will call the police",
+            "score": 2
+        },
+        {
+            "answer": "I will check the insurance",
+            "score": 2
+        },
+        {
+            "answer": "I will help the other driver if he needs help",
+            "score": 4
+        },
+        {
+            "answer": "I will drive away",
+            "score": 3
+        }
+    ],
+    "Question 4: Your favorite team lost a game. How do you feel?": [
+        {
+            "answer": "I am disappointed",
+            "score": 3
+        },
+        {
+            "answer": "I am happy for the other team (obviously not)",
+            "score": 3
+        },
+        {
+            "answer": "I don't care about sports",
+            "score": 0
+        },
+        {
+            "answer": "I am angry",
+            "score": 2
+        }
+    ],
+    "Question 5: You received a surprise gift. What will you do?": [
+        {
+            "answer": "I will open it immediately",
+            "score": 4
+        },
+        {
+            "answer": "I will save it for later",
+            "score": 3
+        },
+        {
+            "answer": "I will re-gift it to someone else",
+            "score": 0
+        },
+        {
+            "answer": "I will donate it to charity",
+            "score": 2
+        }
+    ],
+    "Question 6: You're feeling bored. How do you entertain yourself?": [
+        {
+            "answer": "I scroll cat memes",
+            "score": 3
+        },
+        {
+            "answer": "I read a very useful and motivational book",
+            "score": 1
+        },
+        {
+            "answer": "I go for a walk or exercise",
+            "score": 2
+        },
+        {
+            "answer": "I take a cup of coffee",
+            "score": 1
+        }
+    ],
+    "Question 7: You made a mistake at work. What will you do?": [
+        {
+            "answer": "I will immediately inform my supervisor",
+            "score": 4
+        },
+        {
+            "answer": "I will try to cover it up",
+            "score": 4
+        },
+        {
+            "answer": "I will find a way to fix it",
+            "score": 3
+        },
+        {
+            "answer": "I will blame someone else",
+            "score": 3
+        }
+    ],
+    "Question 8: You're feeling hungry. What will you eat?": [
+        {
+            "answer": "I will order takeout or delivery",
+            "score": 0
+        },
+        {
+            "answer": "I will cook a meal at home",
+            "score": 0
+        },
+        {
+            "answer": "I will steal someone's food from the fridge",
+            "score": 4
+        },
+        {
+            "answer": "I will ignore my hunger",
+            "score": 1
+        }
+    ],
+    "Question 9: You're feeling stuck on a problem. How do you approach it?": [
+        {
+            "answer": "I break the problem down into smaller parts",
+            "score": 1
+        },
+        {
+            "answer": "I seek help or advice from others",
+            "score": 3
+        },
+        {
+            "answer": "I take a break and come back to it later",
+            "score": 2
+        },
+        {
+            "answer": "I give up and move on to something else",
+            "score": 4
+        }
+    ],
+    "Question 10: You have a free day with no obligations. How do you spend it?": [
+        {
+            "answer": "I go on an adventure or explore a new place",
+            "score": 4
+        },
+        {
+            "answer": "I stay at home and relax",
+            "score": 2
+        },
+        {
+            "answer": "I spend time with friends or loved ones",
+            "score": 2
+        },
+        {
+            "answer": "I use the time to catch up on personal projects",
+            "score": 1
+        }
+    ]
+}
